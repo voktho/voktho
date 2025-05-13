@@ -1,8 +1,12 @@
 ### Hi there 👋, I'm Voktho
-#### #Electronics Engineer #Digital Electronics Design #RTL #Analog Design
-I have recently completed my B.Sc. from the Department of EEE at the Bangladesh University of Engineering and Technology. My major is Electronics.I am interested in Digital Design such as VLSI,Hardware  security,Computer Architecture,Risc-v,SoC,Processor Memory Systems,FPGA,CAD Tools Design,Mixed Signal IC,Low Power IC.
+#### #Electronics Engineer #Hardware Security #Digital Electronics Design #RTL #FPGA
+I am a PhD student in Electrical Engineering at the University of Central Florida, specializing in hardware security and trust. As a Research Assistant and ORCGS Doctoral Fellow, I am deeply committed to advancing research in hardware security, with particular focus on logic locking and eFPGA-based IP redaction.
 
-Skills: Cadence Virtuoso/Cadence NCSim/Genus Synthesis Tools/Caden Innovus/ModelSim/STMCubeIDE/Matlab and Simulink/Pspice/Quartus/Proteus/
+My academic journey began at the prestigious Bangladesh University of Engineering and Technology (BUET), where I earned my bachelor's degree in Electrical Engineering. This foundation, combined with my passion for innovation, drives my current endeavor to address critical challenges in securing modern hardware systems.
+
+I am always eager to collaborate on cutting-edge research and explore novel solutions to make hardware systems more secure and reliable.
+
+Skills: OpenFPGA/Synopsys DC/Synopsys IC Compiler II/Cadence Virtuoso/Cadence NCSim/Genus Synthesis Tools/Cadence Innovus/ModelSim/STMCubeIDE/Matlab and Simulink/Pspice/Quartus/Proteus/Python/C
 
 
 
